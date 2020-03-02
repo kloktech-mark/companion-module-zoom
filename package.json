@@ -1,0 +1,20 @@
+{
+	"name": "zoom",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Chat",
+		"Webhooks"
+	],
+	"manufacturer": "ZOOM",
+	"product": "Webhooks",
+	"shortname": "zoom",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "TaCheng Hou <houtacheng@gmail.com>",
+	"license": "MIT",
+	},
+	"homepage": "https://github.com/bitfocus/"
+}
